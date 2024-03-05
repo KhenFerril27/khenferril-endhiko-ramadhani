@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>Biodata</title>
+    <?php
+print
+"<pre>
+
+    <center><font size="14" color="red">BIODATA</font></center>
+
+    <center><font size="6" color="blue"> Nama : Achmad Riki </font></center>
+    <center><font size="6" color="blue"> Email : ariki@gmail.com </font></center>
+    <center><font size="6" color="blue"> Jurusan : Tehnik Informatika </font></center>
+    <center><font size="6" color="blue"> Hoby : Travelling </font></center>
+    <br />
+  </head>
+</html>
